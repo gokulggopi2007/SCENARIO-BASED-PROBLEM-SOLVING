@@ -1,4 +1,4 @@
 # SCENARIO-BASED-PROBLEM-SOLVING
 
-Write a C program how many five hundred, two hundred, hundred in withdraw amount
-Bank working basing program
+Q1.Write a C program how many five hundred, two hundred, hundred in withdraw amount.
+Q2.Bank working basing program.
